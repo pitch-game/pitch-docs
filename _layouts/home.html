@@ -9,4 +9,9 @@ layout: default
   document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
     a.innerText = a.title;
   });
+
+  var duplicateHeading = document.querySelector("h1:not(#pitch-documentation)");
+  if (duplicateHeading && duplicateHeading.remove) {
+    duplicateHeading.remove();
+  }
 </script>
