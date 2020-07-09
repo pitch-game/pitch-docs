@@ -1,2 +1,2 @@
-# season Basics
+# Season Basics
 

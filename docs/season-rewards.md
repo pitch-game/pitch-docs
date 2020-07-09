@@ -1,2 +1,2 @@
-# season Rewards
+# Season Rewards
 

@@ -1,4 +1,4 @@
-# season Restrictions
+# Season Restrictions
 
 - Can't play any other matches an hour before kick off for season game.
 - Cannot play any other game while playing a season match.
