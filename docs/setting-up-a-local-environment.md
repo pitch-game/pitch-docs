@@ -1,4 +1,4 @@
-# Setup Local Environment
+# Setting up a Local Environment
 
 ## API
 
