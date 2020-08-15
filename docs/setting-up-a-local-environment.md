@@ -9,17 +9,24 @@
 - `scoop install kubectl`
 - `scoop install helm`
 - `scoop install skaffold`
+- `scoop install terraform`
 
 #### Docker desktop
 - Enable Kubernetes
 
-#### Kubernetes
-- [Set up dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) (optional)
+#### Kubernetes (optional)
+- [Set up dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
 
 ### Getting Started
 
-- cd to root of API repo
-- `skaffold dev`
+#### Provision infrastructure
+- cd to `~/deploy/k8s/terraform/local`
+- `terraform init`
+- `terraform apply`
+
+#### Deploy application
+- cd to root
+- `skaffold run -n pitch-api`
 
 ## Frontend
 
