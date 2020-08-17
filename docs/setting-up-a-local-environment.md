@@ -28,5 +28,11 @@
 - cd to root
 - `skaffold run -n pitch-api`
 
+#### Hosts
+Add the following to your hosts file:
+```
+192.168.1.115 localhost.pitch-game.io
+```
+
 ## Frontend
 
