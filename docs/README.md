@@ -2,7 +2,7 @@
 
 ## About
 
-Pitch is an online multiplayer football simulation game. Users can create their own squads, manage and upgrade them and then play against each other in [[real-time]].
+Pitch is an online multiplayer football simulation game. Users can manage and upgrade their own squads and then play against each other in [[real-time]] across multiple different competitions.
 
 ## Development
 
