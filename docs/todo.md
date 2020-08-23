@@ -3,6 +3,7 @@
 ## Features
 - [ ] [[pack-purchasing]]
 - [ ] [[calendar]]
+- [ ] [[profile]]
 - [ ] [[seasons]]
 - [ ] [[match-rewards]]
 - [ ] [[team-instructions]]
