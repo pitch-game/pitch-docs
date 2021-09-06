@@ -3,14 +3,11 @@
 ## Prerequisites
 
 ### Install
-- `scoop install https://raw.githubusercontent.com/Ash258/scoop-Ash258/master/bucket/docker.json`
+- Install Docker Desktop and enable Kubernetes in settings
 - `scoop install kubectl`
 - `scoop install helm`
-- `scoop install skaffold`
+- `scoop bucket add extras && scoop install skaffold`
 - `scoop install terraform`
-
-### Docker desktop
-- Enable Kubernetes
 
 ### Kubernetes (optional)
 - [Set up dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
